@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-grocery-and-essentials-platform-220759-220775/nextjs_frontend"
+}
